@@ -10,7 +10,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.0
 	github.com/hashicorp/go-getter v1.2.0 // indirect
 	github.com/hashicorp/go-hclog v0.8.0 // indirect
-	github.com/hashicorp/go-plugin v0.0.0-20180814222501-a4620f9913d1 // indirect
+	github.com/hashicorp/go-plugin v0.0.0-20190319120435-3f118e8ee104 // indirect
 	github.com/hashicorp/hcl2 v0.0.0-20190315215159-956e03eb6dda // indirect
 	github.com/hashicorp/terraform v0.11.13
 	github.com/mitchellh/cli v1.0.0 // indirect
